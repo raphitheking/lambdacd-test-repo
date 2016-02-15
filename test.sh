@@ -1,1 +1,2 @@
-echo "success!"
+echo "fail!"
+exit 1
